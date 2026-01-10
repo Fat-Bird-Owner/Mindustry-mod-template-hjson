@@ -1,0 +1,15 @@
+// file name very used in logic like template-block.
+name: "template"
+
+displayName: "Template"
+// repo: Fat-Bird-Owner/The-Infestations
+subtitle: ""
+author: ""
+
+description: ""
+
+iosCompatible: true
+version: "v1"
+minGameVersion: "154.3"
+dependencies: []
+hidden: false
