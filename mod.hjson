@@ -1,8 +1,8 @@
 // file name very used in logic like template-block.
 name: "template"
 
-displayName: "Template"
-// repo: Fat-Bird-Owner/The-Infestations
+displayName: "Mod Template"
+repo: "Fat-Bird-Owner/Mindustry-mod-template-hjson"
 subtitle: ""
 author: ""
 
@@ -13,3 +13,5 @@ version: "v1"
 minGameVersion: "154.3"
 dependencies: []
 hidden: false
+
+contentOrder:[]
